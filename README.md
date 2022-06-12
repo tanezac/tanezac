@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanezac
+- 👋 Hi, I’m Tan Nguyen
 - 👀 I’m interested in AL and Cloud Computing
 - 🌱 I’m currently learning Computer Sience
 - 💞️ I’m looking to new job
